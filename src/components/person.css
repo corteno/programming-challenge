@@ -1,0 +1,33 @@
+.user-page-content-wrapper{
+    padding: 20px;
+}
+
+.person-wrapper{
+    width: 100%;
+}
+
+.person-avatar{
+    height: 40px;
+    width: 40px;
+    min-width: 40px;
+
+    border-radius: 30px;
+}
+
+.person-content{
+    justify-content: center;
+    margin-left: 10px;
+    width: 100%;
+
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.person-name{
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.person-location{
+    color: #afafaf;
+    margin-bottom: 5px;
+}
